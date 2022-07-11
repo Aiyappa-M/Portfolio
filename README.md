@@ -4,8 +4,6 @@ This portfolio is a small project using HTML/CSS & Bootstrap.
 
 [Live Heroku Deployment](https://portfolio-aiyappa.herokuapp.com/)
 
-![]
-
 
 ## Technologies Used
 

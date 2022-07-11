@@ -22,13 +22,8 @@ h2 {
 }
 
 a.font-black {
-    color: #000 !important;
+    color: black !important;
 }
-
-
-/**********
-ABOUT
-***********/
 
 #about {
     margin: 60px auto;
@@ -60,7 +55,7 @@ ABOUT
 
 #about .email {
     margin-top: 14px;
-    font-size: 14px;
+    font-size: 15px;
 }
 
 #about .icons {
@@ -69,13 +64,8 @@ ABOUT
 }
 
 #about .icons a {
-    color: #000;
+    color: black;
 }
-
-
-/**********
-Project
-***********/
 
 #project {
     margin: 60px auto;
@@ -88,6 +78,7 @@ Project
 
 #project .card img {
     width: 100%;
+    border-radius: 3%;
 }
 
 #project .card-title {
